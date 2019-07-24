@@ -1,4 +1,4 @@
-package org.amuji.hellocontractmoco;
+package org.amuji;
 
 public class Hello {
     private String pattern;

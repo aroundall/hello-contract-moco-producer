@@ -1,4 +1,4 @@
-package org.amuji.hellocontractmoco;
+package org.amuji;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

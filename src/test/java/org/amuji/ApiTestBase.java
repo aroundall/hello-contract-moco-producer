@@ -1,4 +1,4 @@
-package org.amuji.hellocontractmoco;
+package org.amuji;
 
 import com.github.macdao.moscow.ContractAssertion;
 import com.github.macdao.moscow.ContractContainer;

@@ -1,4 +1,4 @@
-package org.amuji.hellocontractmoco;
+package org.amuji;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
