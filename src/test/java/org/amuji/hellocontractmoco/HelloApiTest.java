@@ -13,4 +13,9 @@ public class HelloApiTest extends ApiTestBase {
     public void request_hello_should_response_the_sentence() {
         assertContract();
     }
+
+    @Test
+    public void request_creating_hello_patterns_should_works() {
+        assertContract();
+    }
 }

@@ -7,5 +7,21 @@
     "response": {
       "text": "Joy, how do you do?"
     }
+  },
+  {
+    "description": "request_creating_hello_patterns_should_works",
+    "request": {
+      "method": "POST",
+      "uri": "/hellos",
+      "json": [{
+        "pattern": "Hi, %s"
+      },{
+        "pattern": "Hello, %s"
+      }]
+    },
+    "response": {
+      "status": 201,
+      "json": ["0", "1"]
+    }
   }
 ]
