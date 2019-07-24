@@ -1,0 +1,11 @@
+[
+  {
+    "description": "request_hello_should_response_the_sentence",
+    "request": {
+      "uri": "/hellos/Joy"
+    },
+    "response": {
+      "text": "Joy, how do you do?"
+    }
+  }
+]
